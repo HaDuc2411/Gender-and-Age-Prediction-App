@@ -1,0 +1,6 @@
+streamlit==1.11.0
+numpy==1.23
+matplotlib==3.5.1
+tensorflow==2.8.2
+keras
+cv2
