@@ -1,6 +1,6 @@
-streamlit==1.11.0
-numpy==1.23
-matplotlib==3.5.1
+streamlit
+numpy
+matplotlib
 tensorflow
 keras
 opencv-python
