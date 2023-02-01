@@ -4,3 +4,5 @@ matplotlib
 tensorflow
 keras
 opencv-python
+fastai==2.4
+pillow==8.2
