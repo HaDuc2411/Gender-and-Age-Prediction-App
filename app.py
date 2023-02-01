@@ -5,7 +5,7 @@ from math import *
 import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
-import cv2
+from cv2 import cv2
 from keras.models import Sequential, Model
 from keras.layers import Dense, Conv2D, Dropout, Flatten, MaxPooling2D, Input
 
